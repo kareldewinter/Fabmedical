@@ -4,7 +4,7 @@ name: content-web
 on:
   push:
     branches:
-    - master
+    - main
     paths:
     - 'content-web/**'
 
